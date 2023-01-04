@@ -174,7 +174,7 @@ h1 {
   position: relative;
   bottom: 0;
   z-index: 3;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   opacity: 0;
   transform: translateY(175px);
   transition: .5s;
